@@ -1,0 +1,19 @@
+.mainContent{
+    margin: auto;
+    
+}
+.headerName{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+thead{
+    color: white;
+    background-color: rgb(86, 86, 246);
+}
+td{
+   font-size: medium;
+}
+table{
+    margin-top: -10%;
+    margin: auto;
+}
